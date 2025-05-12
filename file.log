@@ -1,0 +1,50 @@
+t commit -m "Add initial files"
+[main (root-commit) 59e4f12] Add initial files
+ 26 files changed, 1169 insertions(+)
+ create mode 100644 Dockerfile
+ create mode 100644 LICENSE
+ create mode 100644 README.md
+ create mode 100644 app.yaml
+ create mode 100644 www/css/style.css
+ create mode 100644 www/images/about-vid.mp4
+ create mode 100644 www/images/contact-img.svg
+ create mode 100644 www/images/home-bg.jpg
+ create mode 100644 www/images/icon-1.png
+ create mode 100644 www/images/icon-2.png
+ create mode 100644 www/images/icon-3.png
+ create mode 100644 www/images/icon-4.png
+ create mode 100644 www/images/img-1.jfif
+ create mode 100644 www/images/img-2.jfif
+ create mode 100644 www/images/img-3.jpg
+ create mode 100644 www/images/img-4.jpg
+ create mode 100644 www/images/img-5.jpg
+ create mode 100644 www/images/img-6.jpg
+ create mode 100644 www/images/img-7.jpg
+ create mode 100644 www/images/img-8.jpg
+ create mode 100644 www/images/img-9.jpg
+ create mode 100644 www/images/pic-1.jpg
+ create mode 100644 www/images/pic-2.png
+ create mode 100644 www/images/pic-3.jpg
+ create mode 100644 www/index.html
+ create mode 100644 www/js/script.js
+
+ git commit -m "Add deployment yaml"
+[main ac40726] Add deployment yaml
+ 1 file changed, 170 insertions(+)
+ create mode 100644 deployment.yaml
+
+ git commit -m "Update readme"
+[main 6835a11] Update readme
+ 1 file changed, 26 insertions(+), 6 deletions(-)
+
+ git commit -m "Add URLs"
+ [main 470ab10] Add URLs
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+ git commit -m "Add credits"
+[main 70075d8] Add credits
+ 1 file changed, 6 insertions(+)
+
+ git commit -m "Fix endline"
+[main 9eb84c7] Fix endline
+ 1 file changed, 1 insertion(+)

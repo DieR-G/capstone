@@ -26,3 +26,9 @@ The different parts of the traveling app are deployed and accessible at the foll
 
 ---
 
+## Original repository
+[Europe Travel Website HTML-CSS-JS](https://github.com/GNiruthian/Europe-Travel-Website-html-css-js)
+
+## Team Members
+Luis Antonio Juárez Cisneros
+Diego Fernando Ramos Guardado

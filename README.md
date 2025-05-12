@@ -1,8 +1,28 @@
-# Europe-Travel-Website-html-css-js
-Create A Responsive Tour &amp; Travel Agency Website Design Using HTML / CSS / JS
-A Responsive Adventure & Tour Website Design Using HTML CSS  & JavaScript Step By Step
+# CAPSTONE PROJECT
+
+## Description
 
 
-# HTML
-# CSS
-# JS
+The CEO of Travel Europe LLC is trying to launch and maintain a completely new website to attract potential customers. They have decided to work with Google Cloud resources, their PMs advisors have recommended the organization’s CTO to hire a team of three cloud engineers and take the ‘green field’ approach for this project leveraging the power of Google Cloud resources. 
+
+Their development team have already uploaded a GitHub repository with the build of a teaser static website [1] as Travel Europe LLC is a global organization and is seeking to attract potential customers from the Americas, they need a solution that can scale and manage containerized applications so they can then automate the life cycle management of containers [3] When using GKE the solution to deploy this website should be set behind a load balancer with an external endpoint, so it can be accessed globally.
+
+
+To run or deploy this project, you will need:
+
+* A Google Cloud Platform (GCP) account.
+
+## Accessing the App
+
+The different parts of the traveling app are deployed and accessible at the following URLs:
+
+| Service           | Environment   | URL                                                        |
+| :---------------- | :------------ | :--------------------------------------------------------- |
+| **GCE** | Production    | [GCE PRODUCTION IP ADDRESS or DNS NAME]                    |
+| **Cloud Run** | Production    | [CLOUD RUN PRODUCTION SERVICE URL]                         |
+| **App Engine Std**|Production   | [APP ENGINE STANDARD DEV SERVICE URL]                      |
+| **GKE**| Production    | [APP ENGINE STANDARD PROD SERVICE URL]                     |
+
+
+---
+

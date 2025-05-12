@@ -31,4 +31,5 @@ The different parts of the traveling app are deployed and accessible at the foll
 
 ## Team Members
 Luis Antonio Juárez Cisneros
+
 Diego Fernando Ramos Guardado

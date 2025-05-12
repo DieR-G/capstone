@@ -18,10 +18,10 @@ The different parts of the traveling app are deployed and accessible at the foll
 
 | Service           | Environment   | URL                                                        |
 | :---------------- | :------------ | :--------------------------------------------------------- |
-| **GCE** | Production    | [GCE PRODUCTION IP ADDRESS or DNS NAME]                    |
-| **Cloud Run** | Production    | [CLOUD RUN PRODUCTION SERVICE URL]                         |
-| **App Engine Std**|Production   | [APP ENGINE STANDARD DEV SERVICE URL]                      |
-| **GKE**| Production    | [APP ENGINE STANDARD PROD SERVICE URL]                     |
+| **GCE** | Production    | [http://34.42.9.226/](http://34.42.9.226/)                    |
+| **CloudRun** | Production    | [https://capstone-image-648143003204.us-central1.run.app/#](https://capstone-image-648143003204.us-central1.run.app/#)                         |
+| **AppEngine**|Production   | [https://guardadodiego.uc.r.appspot.com/](https://guardadodiego.uc.r.appspot.com/)                      |
+| **GKE**| LoadBalancer Endpoint    | [http://104.197.0.233/](http://104.197.0.233/)                     |
 
 
 ---
